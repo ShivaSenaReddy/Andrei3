@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ShivaSenaReddy/Andrei3/static/css/main.5b7a092f.chunk.css",
+    "main.js": "/ShivaSenaReddy/Andrei3/static/js/main.9113ec98.chunk.js",
+    "main.js.map": "/ShivaSenaReddy/Andrei3/static/js/main.9113ec98.chunk.js.map",
+    "runtime-main.js": "/ShivaSenaReddy/Andrei3/static/js/runtime-main.687754d2.js",
+    "runtime-main.js.map": "/ShivaSenaReddy/Andrei3/static/js/runtime-main.687754d2.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ShivaSenaReddy/Andrei3/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "/ShivaSenaReddy/Andrei3/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "/ShivaSenaReddy/Andrei3/static/js/2.f9f5aa27.chunk.js.map",
+    "index.html": "/ShivaSenaReddy/Andrei3/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/ShivaSenaReddy/Andrei3/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.5b7a092f.chunk.css.map": "/ShivaSenaReddy/Andrei3/static/css/main.5b7a092f.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "/ShivaSenaReddy/Andrei3/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ShivaSenaReddy/Andrei3/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.687754d2.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.5b7a092f.chunk.css",
+    "static/js/main.9113ec98.chunk.js"
+  ]
+}
